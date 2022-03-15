@@ -8,5 +8,6 @@ that you have, there shouldn't be that much of a difference. And you are good to
   ,then diffmerge the file "my_output" to the file "expected_output", enjoy :) **/
   
   
+ note* for each test there is a number you can search "test i" in "Slimain.cpp" to find it. 
   
-  note* "getComputers" function line 354 gets a pointer to the array of computers in Class Store (getter of field computers in Store).
+  note** "getComputers" function line 354 gets a pointer to the array of computers in Class Store (getter of field computers in Store).
