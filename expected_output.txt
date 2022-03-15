@@ -34,7 +34,8 @@ Cpu year: 0
 /********************************* Computer Class testing ************************************/
 
 
-Manufacturer's name length is too long ************** test 4 success ************** 
+Manufacturer's name length is too long
+ ************** test 4 success ************** 
  ************** test 5 success ************** 
  ************** test 6 success ************** 
  ************** test 7 success ************** 
